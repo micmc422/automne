@@ -8,6 +8,7 @@ const enchantedTales = localFont({
   variable: "--enchanted",
 });
 const robotoSlab = Roboto_Slab({
+  subsets: ["latin"],
   variable: "--roboto-slab",
   weight: "400",
 });
